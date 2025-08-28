@@ -15,7 +15,7 @@ Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado 
 ## Contacto
 **Email:** federico.leandro.c@gmail.com
 
-**Linkedin**: [Perfil](https://www.linkedin.com/in/leandro-ca%C3%B1ellas-56178632a/)
+**Linkedin**: [Federico Leandro Cañellas](https://www.linkedin.com/in/leandro-ca%C3%B1ellas-56178632a/)
 
 ## Idiomas
 
