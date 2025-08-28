@@ -6,11 +6,18 @@ Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado 
 
 **Titulado en:** Duoc UC
 
-**Ubicación:** Quilpué, Valparaíso, Chile
+**Ubicación:** Región de Valparaíso, Chile
 
 **Modalidad:** 🏠 Remoto (para todo el mundo)
 
 **Perfil Cultural:** [Team Player - Commander](https://www.getonbrd.com/quizzes/webpro-cultural-fit/assessments/ed2bd80f7e43407dd2a8559ab9d9e997/share?utm_source=share)
+
+## ¿Por qué contratarme?
+
+Soy un profesional autodidacta que no espera a que le tracen el camino: lo construyo y guío a otros en él. Tengo una visión integral del software: no solo lo desarrollo, también lo visualizo, lo argumento y lo defiendo.<br>
+Mi pasión por el desarrollo y mi curiosidad por la ciberseguridad me permiten abordar cada proyecto con la seguridad como un pilar fundamental.<br>
+No me considero “exitoso” por logros aislados, sino por mi capacidad de aprender de los fracasos, perseverar y transformar desafíos en oportunidades.<br>
+Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y proponer soluciones a la medida, siempre pensando en generar valor real para el cliente.
 
 ## Contacto
 **Email:** federico.leandro.c@gmail.com
