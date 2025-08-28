@@ -28,11 +28,11 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 
 - 🇪🇸 🇨🇱 Español (Nativo)
 - 🇺🇸 Inglés (B1/B2 ~ C1)
-  - [Certificado Inglés C1](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
 
 ## Cursos | Certificaciones
 - Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web (En Curso)
 - Cisco English for IT 1 (En Curso)
+- [Certificado Inglés C1](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
 - [Training eJPT & CEH Pentester Pro - Hacker Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
 - [Cisco Introduction to cybersecurity](https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile)
 - [JavaScript Basic](https://www.hackerrank.com/certificates/edabd16d8371)
@@ -42,6 +42,7 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 - [SQL Basic](https://www.hackerrank.com/certificates/8ecfd4d81b06)
 - [SQL Intermediate](https://www.hackerrank.com/certificates/a4f127cda5a8)
 - [SQL Advanced](https://www.hackerrank.com/certificates/1bf9495d1b96)
+- [POO - Programación Orientada a Objetos](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
 
 ## Entorno de Desarrollo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
