@@ -20,7 +20,7 @@ Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado 
 ## Idiomas
 
 - 🇪🇸 🇨🇱 Español (Nativo)
-- 🇺🇸 Inglés (B1/B2)
+- 🇺🇸 [Inglés (B1/B2 ~ C1)](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
 
 ## Cursos | Certificaciones
 - Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web (En Curso)
