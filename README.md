@@ -25,7 +25,7 @@ Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado 
 ## Cursos | Certificaciones
 - Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web (En Curso)
 - Cisco English for IT 1 (En Curso)
-- [Training eJPT & CEH Pentester Pro - Hackcer Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
+- [Training eJPT & CEH Pentester Pro - Hacker Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
 - [Cisco Introduction to ybersecurity](https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile)
 - [JavaScript Basic](https://www.hackerrank.com/certificates/edabd16d8371)
 - [Python Basic](https://www.hackerrank.com/certificates/0d9a3097afdc)
