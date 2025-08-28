@@ -23,7 +23,17 @@ Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado 
 - 🇺🇸 Inglés (B1/B2)
 
 ## Cursos | Certificaciones
-- [Training eJPT & CEH Pentester Pro - Hackcr Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
+- Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web (En Curso)
+- Cisco English for IT 1 (En Curso)
+- [Training eJPT & CEH Pentester Pro - Hackcer Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
+- [Cisco Introduction to ybersecurity](https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile)
+- [JavaScript Basic](https://www.hackerrank.com/certificates/edabd16d8371)
+- [Python Basic](https://www.hackerrank.com/certificates/0d9a3097afdc)
+- [Cisco Python Essentials I](https://www.credly.com/badges/e2a095eb-7da1-46fa-88a4-7a371e88d320/linked_in_profile)
+- [Cisco Python Essentials II](https://www.credly.com/badges/02c30223-0314-4eca-b4cf-5690257f0be4/linked_in_profile)
+- [SQL Basic](https://www.hackerrank.com/certificates/8ecfd4d81b06)
+- [SQL Intermediate](https://www.hackerrank.com/certificates/a4f127cda5a8)
+- [SQL Advanced](https://www.hackerrank.com/certificates/1bf9495d1b96)
 
 ## Entorno de Desarrollo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
