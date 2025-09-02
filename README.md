@@ -30,8 +30,8 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 - 🇺🇸 Inglés (B1/B2 ~ C1)
 
 ## Cursos | Certificaciones
-- Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web (En Curso)
-- Cisco English for IT 1 (En Curso)
+- Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web
+- [Cisco English for IT 1]()
 - [Certificado Inglés C1](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
 - [Training eJPT & CEH Pentester Pro - Hacker Mentor](https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf)
 - [Cisco Introduction to cybersecurity](https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile)
