@@ -1,4 +1,4 @@
-## Hola, soy Federico Leandro Cañellas 👋 
+## Hola, soy Leandro Cañellas 👋 
 
 Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado en construir aplicaciones seguras desde el diseño. Curioso por naturaleza, en mi tiempo libre participo en CTFs, exploro tecnologías desde adentro y escribo artículos sobre temas que me apasionan.
 
@@ -22,7 +22,7 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 ## Contacto
 **Email:** federico.leandro.c@gmail.com
 
-**Linkedin**: [Federico Leandro Cañellas](https://www.linkedin.com/in/leandro-ca%C3%B1ellas-56178632a/)
+**Linkedin**: [Leandro Cañellas](https://www.linkedin.com/in/leandro-ca%C3%B1ellas-dev/)
 
 ## Idiomas
 
