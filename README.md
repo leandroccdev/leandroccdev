@@ -1,3 +1,4 @@
+![Visitas a mi perfil](https://github-vistors-counter.onrender.com/github?username=leandroccdev&color=blue&style=for-the-badge)
 ## Hola, soy Leandro Cañellas 👋 
 
 Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado en construir aplicaciones seguras desde el diseño. Curioso por naturaleza, en mi tiempo libre participo en CTFs, exploro tecnologías desde adentro y escribo artículos sobre temas que me apasionan.
@@ -27,7 +28,7 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 ## Idiomas
 
 - 🇪🇸 🇨🇱 Español (Nativo)
-- 🇺🇸 Inglés (B1/B2 ~ C1)
+- 🇺🇸 Inglés (Lectura/Escucha: B1/B2 ~ C1; Oral/Redacción: A1~A2)
 
 ## Cursos | Certificaciones
 - Sence - Talento Digital - Bootcamp Hacking Ético en Aplicativos Web
@@ -170,6 +171,6 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 ---
 
 ## Github Stats
-![leandroccdev's Stats](https://github-readme-stats.vercel.app/api?username=leandroccdev&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+<!--![leandroccdev's Stats](https://github-readme-stats.vercel.app/api?username=leandroccdev&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 
-![leandroccdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroccdev&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+![leandroccdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroccdev&theme=monokai&show_icons=true&hide_border=false&layout=compact)-->
