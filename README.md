@@ -1,4 +1,3 @@
-![Visitas a mi perfil](https://github-vistors-counter.onrender.com/github?username=leandroccdev&color=blue&style=for-the-badge)
 ## Hola, soy Leandro Cañellas 👋 
 
 Soy desarrollador de software con interés en ciberseguridad ofensiva, enfocado en construir aplicaciones seguras desde el diseño. Curioso por naturaleza, en mi tiempo libre participo en CTFs, exploro tecnologías desde adentro y escribo artículos sobre temas que me apasionan.
