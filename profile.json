@@ -1,0 +1,415 @@
+{
+  "details": {
+    "name": "Leandro",
+    "lastname": "Cañellas",
+    "title": "Software Developer & Consultor Técnico | Backend, Web Scraping y Automatización | Python · PHP · Docker",
+    "about": "Ingeniero en Informática con un perfil híbrido especializado en Desarrollo Full Stack, Automatización Avanzada y Ciberseguridad / Seguridad Ofensiva. Mi enfoque profesional combina la ingeniería de software con la mentalidad de un auditor de seguridad, permitiéndome diseñar, optimizar y proteger aplicaciones críticas desde la infraestructura hasta el código fuente.\nCuento con una sólida trayectoria como Consultor Independiente y Tech Lead, resolviendo problemas complejos de rendimiento, reingeniería de sistemas heredados y mitigación de amenazas en entornos de producción.\n\nÁreas de Especialización:\n\n- Desarrollo Seguro y Arquitectura: Diseño de sistemas escalables basados en PHP y Python, aplicando principios SOLID, patrones de diseño concurrentes (Productor-Consumidor) y hardening estricto de aplicaciones e-commerce (WordPress/WooCommerce).\n\n- Automatización y Scripting de Alto Rendimiento: Creación de herramientas CLI en Bash para la orquestación de sistemas, flujos asíncronos distribuidos en Python (asyncio/aiohttp) y extracción avanzada de datos (Web Scraping) con técnicas de evasión perimetral y resolución cognitiva de desafíos (AI/IBM Watson).\n\n- Seguridad Ofensiva y Auditoría: Análisis de vulnerabilidades web (OWASP Top 10), pentesting, auditoría de código, inyecciones de datos y configuración avanzada de defensas perimetrales y WAF (Cloudflare).\n\nAptitudes Técnicas\n\n- Lenguajes de Programación: PHP (Ecosistema WordPress, Laravel, CodeIgniter), Python (Selenium, asyncio, AIOHTTP, Tkinter), Node.js (Puppeteer, Express), JavaScript (ES2020+, IIFE), Bash Scripting, Assembly x86-64, Java (Android nativo).Bases de \n\n-Datos: SQL (Oracle PL/SQL, MySQL, MariaDB, PostgreSQL), optimización de consultas complejas y lógica de negocio en procedimientos almacenados.Ciberseguridad & Pentesting: Hacking Ético, Seguridad Ofensiva, Burp Suite, OWASP ZAP, OWASP Juice Shop, Mitigación de ataques automatizados (Brute Force, DoS, SQLi), Hardening y  Analíticas en Cloudflare WAF\n\n- Infraestructura & DevOps: Linux (Arch Linux nativo, Debian/Ubuntu), Docker (Contenedores aislados), Git/GitLab/Bitbucket, Automatización de despliegues (CI/CD), Gulp.js (Ofuscación y empaquetado), Cloud (Microsoft Azure, DigitalOcean, AWS).\n\nConectemos\n\nSi buscas optimizar procesos críticos, migrar arquitecturas backend con restricciones estrictas de recursos, auditar la seguridad de tus plataformas web o desarrollar componentes a medida de alta confiabilidad, hablemos.\n\n- GitHub: github.com/leandroccdev\n- Modalidad: Remoto (Chile / Internacional) / Proyectos contra cotización.",
+    "location": {
+      "country": "Chile",
+      "city": "Valparaíso"
+    },
+    "education": "Duoc UC",
+    "cultural_profile": "https://www.getonbrd.com/quizzes/webpro-cultural-fit/assessments/ed2bd80f7e43407dd2a8559ab9d9e997/share"
+  },
+  "education": [
+    {
+      "degree": "Ingeniero en Informática",
+      "institution": "Duoc UC",
+      "location": "Región de Valparaíso, Chile",
+      "from": "03/2012",
+      "to": "12/2015",
+      "education_type": "Professional Degree",
+      "field_of_study": "Computer Science & Software Engineering",
+      "status": "Graduated",
+      "degree_certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/7e59774b47da14b11006e421d1da85bb864f80fc/documents/flcanellas-duoc-degree-cert.pdf",
+      "description": "Actividades y grupos: Miembro del Centro de Transferencia e Innovación Tecnológica (CITT) de la institución, participando en actividades extracurriculares y competencias tecnológicas.\n\nConcurso Nacional LEGO Mindstorms (2012):\n- Rol en el equipo: Programador principal del robot.\n- Tecnología utilizada: NXC (Not eXactly C).\n- Logro: Primer lugar a nivel nacional."
+    },
+    {
+      "degree": "English for IT 1",
+      "institution": "Cisco Networking Academy",
+      "location": "Remote",
+      "from": "01/2025",
+      "to": "09/2025",
+      "education_type": "Course",
+      "field_of_study": "Professional English for Tech & IT",
+      "status": "Completed",
+      "credential_url": "https://www.credly.com/badges/053fa54f-cded-42d1-8f5b-b4ebc72737be",
+      "credential_id": "053fa54f-cded-42d1-8f5b-b4ebc72737be",
+      "description": "Specialized course focused on English language proficiency within technical and IT contexts, aligned with the B2 Common European Framework (CEFR) level required for global communication and employment in technology sectors."
+    },
+    {
+      "degree": "Bootcamp Hacking Ético en Aplicativos Web",
+      "institution": "Talento Digital para Chile",
+      "location": "Remote",
+      "from": "06/2025",
+      "to": "08/2025",
+      "education_type": "Bootcamp",
+      "field_of_study": "Cybersecurity & Web Pentesting",
+      "status": "Completed",
+      "credential_url": "https://www.acreditta.com/credential/54a3dc0f-63e3-4d2b-a149-cddc9a5389f7?utm_source=linkedin_profile&resource_type=badge&resource=54a3dc0f-63e3-4d2b-a149-cddc9a5389f7",
+      "credential_id": "54a3dc0f-63e3-4d2b-a149-cddc9a5389f7",
+      "diploma_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/7e59774b47da14b11006e421d1da85bb864f80fc/documents/bootcamp-td-ethical-hacking-for-web-apps/otec-diploma.pdf",
+      "sense_certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/7e59774b47da14b11006e421d1da85bb864f80fc/documents/bootcamp-td-ethical-hacking-for-web-apps/sense-ethical-hacking-for-web-apps-sustantiva.pdf",
+      "description": "Formación intensiva especializada en seguridad ofensiva, auditoría web y análisis de vulnerabilidades bajo estándares internacionales.\n\nEjes del programa:\n\n- Metodologías de Pentesting: Aplicación de frameworks OWASP Top 10, NIST y PTES para la identificación, explotación y mitigación de brechas de seguridad.\n- Laboratorios Prácticos: Simulación de entornos empresariales mediante Docker, análisis de tráfico y explotación controlada en plataformas como OWASP Juice Shop.\n- Auditoría y Reportabilidad: Desarrollo de auditorías técnicas complejas, documentación rigurosa de hallazgos y redacción de informes ejecutivos y técnicos.\n\nTecnologías y herramientas utilizadas:\n\n- Burp Suite, OWASP ZAP, Postman, Python, Docker y Linux."
+    },
+    {
+      "degree": "Python Essentials 1",
+      "institution": "Cisco Networking Academy",
+      "location": "Remote",
+      "from": "12/2024",
+      "to": "12/2024",
+      "education_type": "Course",
+      "field_of_study": "Computer Programming",
+      "status": "Completed",
+      "credential_url": "https://www.credly.com/badges/e2a095eb-7da1-46fa-88a4-7a371e88d320/linked_in_profile",
+      "credential_id": "e2a095eb-7da1-46fa-88a4-7a371e88d320",
+      "description": "Curso oficial de alineación para la certificación PCEP (Certified Entry-Level Python Programmer) enfocado en los fundamentos esenciales del lenguaje.\n\nContenido clave desarrollado:\n\n- Fundamentos de Programación: Conceptos de diseño de software, variables, operaciones bit a bit y lógicas, y tipos de datos primitivos.\n- Estructuras de Control: Implementación de flujos condicionales (if-else) y bucles iterativos (while, for) para la resolución de algoritmos.\n- Colecciones y Modularización: Manipulación avanzada de listas, tuplas y diccionarios, junto con el diseño y la invocación de funciones estructuradas."
+    },
+    {
+      "degree": "Python Essentials 2",
+      "institution": "Cisco Networking Academy",
+      "location": "Remote",
+      "from": "01/2025",
+      "to": "01/2025",
+      "education_type": "Course",
+      "field_of_study": "Computer Programming",
+      "status": "Completed",
+      "credential_url": "https://www.credly.com/badges/02c30223-0314-4eca-b4cf-5690257f0be4/linked_in_profile",
+      "credential_id": "02c30223-0314-4eca-b4cf-5690257f0be4",
+      "description": "Curso oficial avanzado de alineación para la certificación PCAP (Certified Associate in Python Programming), profundizando en el desarrollo estructurado y empaquetamiento de software.\n\nContenido clave desarrollado:\n\n- Programación Orientada a Objetos (POO): Implementación avanzada de clases, objetos, encapsulamiento, herencia, polimorfismo y propiedades internas del lenguaje.\n- Gestión de Excepciones y Errores: Diseño de bloques robustos de control de errores (try-except) y definición de excepciones personalizadas para garantizar la estabilidad del código.\n- Ecosistema y Estructura: Anatomía de módulos y paquetes, uso de la biblioteca estándar (sys, os, math), procesamiento de strings y manipulación de flujos de archivos de E/S (I/O) en disco."
+    },
+    {
+      "degree": "Introduction to Cybersecurity",
+      "institution": "Cisco Networking Academy",
+      "location": "Remote",
+      "from": "08/2023",
+      "to": "08/2023",
+      "education_type": "Course",
+      "field_of_study": "Cybersecurity Fundamentals",
+      "status": "Completed",
+      "credential_url": "https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile",
+      "credential_id": "52eee876-edc3-4544-a445-0fa606f54cf7",
+      "description": "Curso introductorio enfocado en los pilares fundamentales de la seguridad de la información y la concientización del riesgo digital.\n\nContenido clave desarrollado:\n\n- Conceptos de Seguridad: Comprensión del principio de Triada CIA (Confidencialidad, Integridad y Disponibilidad) y mitigación de vectores de ataque comunes.\n- Higiene Digital y Privacidad: Buenas prácticas para la protección de la identidad digital personal y análisis de los desafíos de ciberseguridad que enfrentan las infraestructuras corporativas actuales."
+    },
+    {
+      "degree": "Iniciación al Desarrollo con IA",
+      "institution": "BIG school",
+      "location": "Remote",
+      "from": "03/2026",
+      "to": "03/2026",
+      "education_type": "Workshop",
+      "field_of_study": "AI-Assisted Software Engineering",
+      "status": "Completed",
+      "diploma_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/7e59774b47da14b11006e421d1da85bb864f80fc/documents/flcanellas-big-school-ia-dev-cert.pdf",
+      "description": "Taller intensivo enfocado en la adopción de metodologías modernas de desarrollo asistido por Inteligencia Artificial y gobernanza de código.\n\nEjes del workshop:\n\n- Specification-Driven Development (SDD): Diseño y estructuración de proyectos basados en requerimientos y especificaciones técnicas rigurosas para guiar el desarrollo de software.\n- Workflow y Calidad: Integración de herramientas de IA en el flujo de trabajo diario para optimizar la productividad sin comprometer la coherencia arquitectónica.\n- Seguridad y Despliegue: Buenas prácticas para la auditoría, control de cambios y validación de seguridad del código generado antes de su paso a producción."
+    },
+    {
+      "degree": "Architecture 1001: x86-64 Assembly",
+      "institution": "OpenSecurityTraining2 (OST2)",
+      "location": "Remote",
+      "from": "04/2026",
+      "to": "05/2026",
+      "education_type": "Specialization",
+      "field_of_study": "Low-Level Systems Programing & Reverse Engineering",
+      "status": "Completed",
+      "credential_url": "https://p.ost2.fyi/certificates/514960277d304fad9266c91f7caae1d6",
+      "credential_id": "514960277d304fad9266c91f7caae1d6",
+      "description": "Especialización avanzada en ingeniería inversa, análisis binario y comprensión profunda de la arquitectura x86-64 a nivel de hardware y registros.\n\nCompetencias y capacidades consolidadas:\n\n- Ingeniería Inversa y Depuración: Dominio en el uso de GDB, DDD y Ghidra a nivel básico para la decompilación de binarios, seguimiento del Stack y convenciones de llamadas (Calling Conventions).\n- Análisis Práctico Avanzado: Resolución exitosa del exigente 'CMU Binary Bomb Lab', descifrando fases lógicas protegidas directamente sobre ensamblador y código máquina.\n- Automatización de Entornos de Compilación: Diseño y gestión autónoma de Makefiles avanzados integrados con scripts de automatización en Bash para optimizar los ciclos de compilación y análisis.\n- Ciberseguridad y Fundamentos de CPU: Fundamentos aplicados a la auditoría de vulnerabilidades de memoria, bases para análisis de malware y consolidación de la base matemática y arquitectónica previa al estudio de extensiones como SIMD.\n\nRegistro documental y notas de estudio: https://github.com/leandroccdev/registro-aprendizaje-x86-64",
+      "repository_url": "https://github.com/leandroccdev/registro-aprendizaje-x86-64"
+    }
+  ],
+  "certifications": [
+    {
+      "degree": "Programación Orientada a Objetos (POO)",
+      "institution": "Alkemy",
+      "location": "Remote",
+      "from": "08/2025",
+      "to": "08/2025",
+      "education_type": "Course",
+      "field_of_study": "Software Engineering Fundamentals",
+      "status": "Completed",
+      "credential_url": "https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608",
+      "credential_id": "68b082022621b4081fe4b68f",
+      "diploma_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/refs/heads/main/documents/alkemy/flcanellas-alkemy-poo-cert.png",
+      "description": "Curso de especialización enfocado en el dominio del paradigma de Programación Orientada a Objetos (POO) y buenas prácticas de diseño de software.\n\nConceptos clave consolidados:\n\n- Pilares de la POO: Abstracción, encapsulamiento, herencia y polimorfismo aplicados a la resolución de problemas lógicos.\n- Modelado de Sistemas: Diseño y estructuración de clases, objetos, métodos y relaciones para la creación de código escalable, mantenible y reutilizable."
+    },
+    {
+      "degree": "Inglés Integrador (Hasta Nivel C1)",
+      "institution": "Alkemy",
+      "location": "Remote",
+      "from": "08/2025",
+      "to": "08/2025",
+      "education_type": "Course",
+      "field_of_study": "Advanced Professional English",
+      "status": "Completed",
+      "credential_url": "https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608",
+      "credential_id": "68afd30a2621b4081fd6a035",
+      "diploma_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/main/documents/alkemy/flcanellas-alkemy-integrator-english-cert.png",
+      "description": "Programa de inmersión lingüística enfocado en el desarrollo de competencias comunicativas avanzadas (Nivel C1) para entornos profesionales globales y de alta exigencia técnica.\n\nCompetencias desarrolladas:\n\n- Comunicación Profesional: Capacidad para argumentar, debatir e intercambiar ideas complejas sobre arquitectura de software, toma de decisiones técnicas y gestión de proyectos.\n- Comprensión e Interacción: Fluidez verbal y escrita requerida para colaborar eficazmente en equipos multiculturales distribuidos y comprender documentación técnica avanzada sin barreras idiomáticas."
+    },
+    {
+      "degree": "Pentesting Pro",
+      "institution": "HackerMentor",
+      "location": "Remote",
+      "from": "08/2025",
+      "to": "08/2025",
+      "education_type": "Specialization",
+      "field_of_study": "Cybersecurity & Advanced Offensive Security",
+      "status": "Completed",
+      "credential_url": "https://credsverse.com/credentials/b2965ec1-1a26-47d3-bc4a-e2e4013b08bf",
+      "credential_id": "b2965ec1-1a26-47d3-bc4a-e2e4013b08bf",
+      "description": "Especialización avanzada en seguridad ofensiva, enfocada en la ejecución técnica de pruebas de penetración (Pentesting) bajo escenarios e infraestructuras corporativas simuladas.\n\nCompetencias y capacidades consolidadas:\n\n- Fases del Pentesting: Dominio práctico de las etapas de reconocimiento (Recon), escaneo profundo, enumeración de vectores de ataque, explotación y post-explotación de sistemas.\n- Análisis de Vulnerabilidades: Identificación y explotación avanzada de brechas críticas en sistemas operativos, redes y servicios, asegurando la correcta documentación técnica para su posterior mitigación."
+    },
+    {
+      "degree": "SQL (Advanced)",
+      "institution": "HackerRank",
+      "location": "Remote",
+      "from": "03/2025",
+      "to": "03/2025",
+      "education_type": "Certification",
+      "field_of_study": "Database Engineering & Advanced Analytics",
+      "status": "Completed",
+      "credential_url": "https://www.hackerrank.com/certificates/1bf9495d1b96",
+      "credential_id": "1bf9495d1b96",
+      "description": "Certificación de habilidades técnicas avanzadas que valida la resolución de problemas complejos de bases de datos relacionales mediante la composición de consultas SQL corporativas de alta eficiencia orientadas al motor Oracle.\n\nEjes técnicos evaluados:\n\n- Funciones Analíticas y Consultas Jerárquicas: Dominio avanzado de cláusulas de ordenación y particionado (Analytic Functions), manipulación de datos multidimensionales y consultas recursivas/jerárquicas complejas mediante el uso de expresiones de tabla comunes (Subquery Factoring/WITH) y cláusulas CONNECT BY.\n- Optimización y Rendimiento bajo Arquitectura Oracle: Diseño y modelado de sentencias complejas integrando subconsultas correlacionadas avanzadas, joins multi-tabla e inline views, garantizando un consumo eficiente de recursos y una lógica de ejecución óptima en escenarios de alta volumetría de datos."
+    },
+    {
+      "degree": "Python (Basic)",
+      "institution": "HackerRank",
+      "location": "Remote",
+      "from": "03/2025",
+      "to": "03/2025",
+      "education_type": "Certification",
+      "field_of_study": "Computer Programming",
+      "status": "Completed",
+      "credential_url": "https://www.hackerrank.com/certificates/0d9a3097afdc",
+      "credential_id": "0d9a3097afdc",
+      "description": "Certificación de habilidades técnicas que valida la resolución de problemas algorítmicos y el dominio de los fundamentos del lenguaje Python bajo condiciones de evaluación controladas.\n\nEjes técnicos evaluados:\n\n- Estructuras de Datos y Control: Manejo eficiente de tipos de datos nativos, colecciones (listas, diccionarios, sets, tuplas), control de flujo y lógica condicional.\n- Programación Funcional y Expresiones: Uso de conceptos clave del lenguaje como abstracción de listas (List Comprehensions), funciones lambda y manejo básico de excepciones."
+    }
+  ],
+  "professional_experience": [
+    {
+      "position": "Desarrollador Wordpress Full Stack",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "11/2025",
+      "to": "05/2026",
+      "employment_type": "Freelance",
+      "description": "Soporte y desarrollo para plataforma e-commerce basada en WordPress y WooCommerce. Responsable del mantenimiento, optimización y mejora del theme, desarrollo de nuevas funcionalidades a medida, resolución de incidencias críticas y automatización de procesos internos bajo modalidad de trabajo por proyectos y cotizaciones.\n\nLogros destacados:\n\n- Optimización de Operaciones:\n\nDesarrollo e implementación de funcionalidades a medida que mejoraron la experiencia de usuario (UX) y optimizaron la operatividad del comercio electrónico.\n\n- Continuidad de Negocio:\n\nResolución eficiente de incidencias críticas en entornos de producción, garantizando la estabilidad, disponibilidad y rendimiento de la plataforma.\n\n- Lógica de Negocio Local:\n\nImplementación de un parche personalizado para la gestión de feriados específicos en Chile, automatizando la reprogramación de retiros y devoluciones al día hábil de atención más cercano."
+    },
+    {
+      "position": "Desarrollador WordPress Full Stack",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "10/2025",
+      "to": "10/2025",
+      "employment_type": "Freelance",
+      "description": "Diseño y desarrollo de un componente a medida para la gestión de pedidos en una tienda WooCommerce, enfocado en la visualización centralizada de entregas diarias y futuras mediante la integración de un calendario dinámico para optimizar la logística interna.\n\nLogros destacados:\n\n- Eficiencia Logística:\n\nImplementación de una vista centralizada de entregas futuras para el equipo de despacho, transformando la planificación interna y aumentando la eficiencia operativa.\n\n- Modernización del Workflow:\n\nDiseño de un flujo de desarrollo automatizado basado en Gulp.js con empaquetado a ES2020 (formato IIFE) y ofuscación de código, logrando un desacoplamiento limpio entre el entorno de desarrollo y la producción mediante repositorios independientes de GitHub."
+    },
+    {
+      "position": "Desarrollador Bash - Generador de Contraseñas Seguras",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "08/2025",
+      "to": "08/2025",
+      "employment_type": "Personal Project",
+      "project_category": "Automation, Security & Linux Tooling",
+      "description": "Herramienta CLI para la automatización de generación de credenciales robustas, mitigando los riesgos asociados al uso de contraseñas débiles o reutilizadas.\n\nFuncionalidades:\n\n- Generación de contraseñas aleatorias de alta entropía interactuando directamente con /dev/urandom.\n- Configuración dinámica del conjunto de caracteres, longitud y volumen de contraseñas a generar.\n- Validación automática de parámetros de entrada para asegurar la consistencia y seguridad del output.\n- Gestión automatizada de dependencias en Linux Arch durante el ciclo de ejecución.\n- Interfaz interactiva en terminal con menú de ayuda detallado.\n\nLogros destacados:\n\n- Optimización del flujo de creación de nuevas cuentas mediante la automatización del aprovisionamiento de credenciales.\n- Eliminación del factor humano en la creación de contraseñas, garantizando un estándar de seguridad robusto y aleatorio."
+    },
+    {
+      "position": "Desarrollador Bash - Automatización de Consultas Financieras",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "07/2025",
+      "to": "07/2025",
+      "employment_type": "Personal Project",
+      "project_category": "Automation, Bash Scripting & Financial APIs",
+      "description": "Automatización y optimización del proceso de consulta del estado de cuenta del crédito CAE en Chile, eliminando la fricción de la verificación manual.\n\nFuncionalidades:\n\n- Consulta de la cuota actual a través de API REST.\n- Presentación de un resumen detallado con información financiera de la cuota.\n- Validación del RUT ingresado para garantizar datos correctos.\n- Gestión automática de dependencias en Linux Arch durante la ejecución.\n\nLogros destacados:\n\n- Reducción del tiempo de consulta de la cuota actual de 1 a 3 minutos a menos de 5 segundos mediante automatización.\n- Implementación de un flujo confiable para acceder a la información de la cuota, evitando problemas de navegación en la página principal de la organización.\n\nHerramienta: https://github.com/leandroccdev/utils/blob/main/cae/cae.sh"
+    },
+    {
+      "position": "Desarrollador Node.js – Automatización de exportación de Google Slides a PDF",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "06/2025",
+      "to": "06/2025",
+      "employment_type": "Personal Project",
+      "project_category": "Automation & Browser Puppeteering",
+      "description": "Herramienta en Node.js con Puppeteer para la conversión de presentaciones de Google Slides no descargables en PDF.\n\nFuncionalidades:\n\n- Captura de cada diapositiva renderizada en el visor de Google Slides como una imágen en alta resolución.\n- Ensamblado de las imágenes en un único archivo PDF que reproduce la presentación original.\n\nLogros destacados:\n\n- Reconstrucción de presentaciones que no permiten descarga directa.\n- Reducción del tiempo de exportación de minutos a segundos mediante automatización, evitando la exportación manual.\n\nHerramienta: https://github.com/leandroccdev/utils/tree/main/google-slides"
+    },
+    {
+      "position": "Desarrollador de Automatización – Exportación de Clases Virtuales (BigBlueButton)",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "06/2025",
+      "to": "06/2025",
+      "employment_type": "Personal Project",
+      "project_category": "Automation, Bash Scripting & Multimedia",
+      "description": "Automatización de descarga y exportación de clases virtuales en BigBlueButton, plataforma educativa de videoconferencias. La herramienta permite obtener los recursos completos de la clase de manera organizada: video de webcams, video de escritorio compartido y chat de la clase.\n\nFuncionalidades:\n\n- Descarga de recursos de la clase (webcam, escritorio compartido y chat).\n- Combinación del audio de la webcam con el vídeo del escritorio compartido mediante copia de pistas en un contenedor compatible (WEBM), sin recodificación ni uso adicional de CPU.\n- Conversión del char desde XML a subtítulos SRT, integrables en cualquier reproductor compatible.\n- Gestión automática de archivos y carpetas para evitar sobrescrituras accidentales.\n- Gestión automática de dependencias en Linux Arch durante la ejecución.\n\nLogros destacados:\n\n- Optimización del proceso de visualización de clases, permitiendo ver el escritorio compartido con audio sincronizado de manera eficiente.\n- Reducción significativa del tiempo de obtención de grabaciones completas.\n\nHerramienta: https://github.com/leandroccdev/utils/blob/main/BigBlueButton/dlclass.sh"
+    },
+    {
+      "position": "Consultor de Seguridad Web y Optimización",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "02/2025",
+      "to": "02/2025",
+      "employment_type": "Freelance",
+      "description": "Servicio de hardening, seguridad perimetral y optimización de rendimiento para aplicaciones y sitios web basados en CMS/LMS.\n\nResponsabilidades:\n\n- Implementación y configuración avanzada de Cloudflare como capa de seguridad y CDN.\n- Creación de reglas personalizadas en el WAF (Web Application Firewall) para la protección de aplicaciones web contra exploits comunes.\n- Filtrado y mitigación de tráfico malicioso automatizado.\n- Restricción perimetral y control de acceso geográfico a paneles críticos de administración (cPanel).\n\nLogros destacados:\n\n- Mitigación de ataques automatizados:\n\nBloqueo efectivo de ataques de fuerza bruta dirigidos al login de cPanel, intentos de explotación de vulnerabilidades en entornos WordPress/WooCommerce y procesos de enumeración de usuarios.\n\n- Optimización de recursos del servidor:\n\nFiltrado exhaustivo de bots y scrapers irrelevantes para el negocio, logrando reducir drásticamente el consumo innecesario de ancho de banda y CPU, sin afectar la correcta indexación de motores de búsqueda (SEO).\n\n- Análisis y eficiencia de infraestructura:\n\nAuditoría de tráfico mediante Cloudflare Analytics para la identificación y optimización de assets descargables pesados, mejorando los tiempos de carga generales de la plataforma."
+    },
+    {
+      "position": "Desarrollador Python",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "01/2025",
+      "to": "02/2025",
+      "employment_type": "Freelance",
+      "description": "Optimización y refactorización de un prototipo basado en Home Assistant para facilitar la comunicación de personas de la tercera edad con sus cuidadores mediante comandos de voz. Proyecto desarrollado sobre Raspberry Pi para una tesis de ingeniería.\n\nMejoras realizadas:\n\n- Rediseño del modelo de tareas activas:\n\nResolución de malfuncionamientos en el sistema de alarmas, alertas y recordatorios mediante la migración del paradigma funcional a Programación Orientada a Objetos (POO) bajo principios SOLID e implementación de multithreading, mejorando la escalabilidad y el mantenimiento del código.\n\n- Desacoplamiento del sensor de temperatura AHTX0:\n\nExtracción de la lógica de lectura física de la Raspberry Pi hacia un módulo independiente con clases de alto nivel, permitiendo alternar entre lecturas reales o simuladas según el entorno de ejecución.\n\n- Habilitación de desarrollo remoto:\n\nConfiguración de entornos vía SSH y abstracción de hardware que permitieron continuar con el desarrollo del software de forma independiente al dispositivo físico.\n\nLogro destacado:\n\nEl desacoplamiento del sensor y la virtualización del entorno permitieron al tesista continuar con las pruebas del software sin depender de la presencia física de la Raspberry Pi (la cual era un préstamo temporal universitario), eliminando costos y tiempos de traslado."
+    },
+    {
+      "position": "Desarrollador PHP Full Stack",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "04/2021",
+      "to": "12/2024",
+      "employment_type": "Freelance",
+      "description": "Proyecto enfocado en el desarrollo y mantención de un sistema ERP para la gestión de un seguro de salud para mascotas, integrado en la página web y tienda digital del cliente.\n\nResponsabilidades:\n\n- Levantamiento y análisis de requerimientos funcionales junto al cliente.\n- Gestión integral del proyecto, incluyendo reuniones de coordinación y elaboración de cotizaciones para nuevas mejoras.\n- Desarrollo de funcionalidades requeridas por cliente.\n- Ejecución de pruebas manuales de caja blanca para asegurar la calidad del software.\n- Instalación y configuración de la tienda digital del cliente con WooCommerce y el procesador de pagos Genet Checkout (Banco Santander).\n- Integración del ERP en el flujo de pago de la tienda, permitiendo el registro automático de clientes y mascotas en el sistema.\n\nAutomatización interna:\n\n- Implementación de scripts en Bash para agilizar la generación de releases, reduciendo tiempo de desarrollo y esfuerzo manual."
+    },
+    {
+      "position": "Desarrollador Backend",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "02/2024",
+      "to": "04/2024",
+      "employment_type": "Freelance",
+      "description": "Migración y optimización de procesos backend orientados al scraping y procesamiento concurrente de datos, aplicando el patrón productor-consumidor en PHP y trasladando la lógica de negocio a procedimientos almacenados en MariaDB.\n\nLa solución implementada incluyó:\n\n- Rediseño del proceso de scraping y procesamiento de datos bajo el patrón productor–consumidor, permitiendo ejecución concurrente controlada.\n- Implementación de un pool de procesos consumidores en PHP para optimizar el rendimiento y reducir el tiempo de ejecución.\n- Migración completa del proceso de scraping desde Python a PHP, manteniendo compatibilidad con la infraestructura existente y preservando la lógica de negocio.\n- Optimización del consumo de memoria mediante manejo eficiente de colas de tareas y procesos livianos.\n- Traslado de la lógica de negocio a procedimientos y funciones almacenadas en MariaDB, disminuyendo la carga en la capa de aplicación.\n\nLogros destacados:\n\n- Reducción del consumo de RAM al ejecutar decenas de procesos concurrentes, optimizando recursos del servidor.\n- Incremento del rendimiento de la red, alcanzando cerca del 90% de utilización del ancho de banda disponible."
+    },
+    {
+      "position": "Desarrollador Python",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "07/2023",
+      "to": "07/2023",
+      "employment_type": "Freelance",
+      "description": "Aplicativo de escritorio para automatización del procesamiento de múltiples planillas Excel en un entorno del sector salud. El cliente recibía mensualmente varias planillas que requerían consolidación manual en un documento final.\n\nLa solución implementada incluyó:\n\n- Interfaz de usuario sencilla basada en Tkinter para ejecución del proceso.\n- Resultados consistentes y exactos, replicando y automatizando el trabajo manual del cliente.\n- Sistema de mapeo de la planilla original con instrucciones de microtareas, para incorporar futuras modificaciones de manera automatizada.\n\nLogros destacados:\n\n- Reducción del tiempo de procesamiento manual de varias semanas a 15~30 minutos, según el equipo utilizado.\n- Consolidación de planillas Excel preservando macros, configuraciones, metadatos y protecciones del proyecto VBA, incluyendo contraseñas y bloqueos de modificación."
+    },
+    {
+      "position": "Desarrollador Python — Automatización y Concurrencia",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "01/2023",
+      "to": "03/2023",
+      "employment_type": "Freelance",
+      "description": "Automatización para verificación masiva de datos en ejecución concurrente.\n\nLa solución implentada incluyó:\n\n- Desarrollo de automatización concurrente para la verificación masiva de datos en la plataforma.\n- Implementación de IBM Watson para la interacción automatizada con Google reCAPTCHA v2 mediante el challenge de audio, asegurando la continuidad del proceso.\n- Integración de VPN automatizada y reconexiones dinámicas a servidores remotos para diversificar el origen de las solicitudes y evitar bloqueos.\n- Optimización del flujo de Selenium y aplicación de técnicas de evasión de detección de control remoto del navegador, garantizando estabilidad y confiabilidad.\n- Uso de Python, Selenium y scripts Bash personalizados para orquestar procesos concurrentes y mantener la operación constante y escalable en entorno Linux.\n\nAutomatización interna:\n\n- Implementación de scripts en Bash para agilizar la generación de releases, reduciendo tiempo de desarrollo y esfuerzo manual."
+    },
+    {
+      "position": "Desarrollador Frontend / Automatización Web",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "02/2023",
+      "to": "02/2023",
+      "employment_type": "Personal Project",
+      "project_category": "Browser Extensions & Automation",
+      "description": "Desarrollo de extensión de navegador para extracción de datos en plataforma de gaming, optimizando procesos manuales y ofreciendo una solución eficiente para el cliente.\n\nLa solución implementada incluyó:\n\n- Creación de una extensión de Chrome para automatizar la extracción de datos.\n- Compatibilidad con navegadores: Chrome, Chromium y Microsoft Edge, ofreciendo múltiples opciones de uso.\n\nAutomatización interna:\n\n- Implementación de scripts en Bash para agilizar la generación de releases, reduciendo tiempo de desarrollo y esfuerzo manual."
+    },
+    {
+      "position": "Desarrollador web Wordpress/WooCommerce",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "04/2021",
+      "to": "12/2022",
+      "employment_type": "Freelance",
+      "description": "Diseño y desarrollo de funcionalidades a medida, plugins y soluciones de integración con proveedores externos en webs/tiendas digitales basadas en WordPress y WooCommerce.\n\nIntegraciones destacadas con proveedores externos:\n\n- BSale: Generación automática de boletas y notas de crédito.\n- Flow: Implementación de flujo de pago personalizado.\n- Intcomex: Generación automatizada de órdenes de compra.\n\nFunciones a medida implementadas:\n\n- Arriendo de productos físicos.\n- Compra de bonos médicos dentro.\n\nMantenimiento de plugins de terceros:\n\n- Mejoras y correcciones en plugin de sorteos.\n- Mejoras y correcciones en plugin de envíos.\n\nAutomatizaciones en post venta destacadas:\n\n- Procesos de cambio y devolución de productos.\n- Sincronización y reposición automática de stock.\n\nAutomatizaciones internas y optimización del flujo de desarrollo:\n\n- Implementación de flujos con Gulp.js para la generación de releases, minificación y ofuscación del código frontend.\n- Estandarización del proceso de despliegue y preparación de entornos productivos."
+    },
+    {
+      "position": "Pausa Profesional / Career Break",
+      "pause_type": "Duelo",
+      "company": "N/A",
+      "from": "08/2024",
+      "to": "10/2024",
+      "employment_type": "Career Break",
+      "description": "Pausa laboral tomada por razones de duelo familiar."
+    },
+    {
+      "position": "Fundador y Gerente General",
+      "company": "Servicios de Ingeniería Aguayo y Cañellas LTDA",
+      "industry": "Software Engineering & IT Consulting",
+      "location": "Región de Valparaíso, Chile",
+      "from": "04/2018",
+      "to": "03/2021",
+      "employment_type": "Business Owner",
+      "description": "Responsabilidades:\n\nGestión administrativa y de clientes:\n\n- Búsqueda, atención y fidelización de clientes.\n- Gestión y contratación de personal, incluyendo remuneraciones y administración de contratos.\n- Manejo de trámites legales y administrativos de la empresa.\n\nGestión de proyectos y análisis:\n\n- Planificación, seguimiento y control de proyectos.\n- Levantamiento y análisis de requerimientos.\n- Elaboración de casos de uso y documentación técnica.\n\nDevOps e infraestructura:\n\n- Administración de entornos en Microsoft Azure y DigitalOcean.\n- Creación de ambientes para desarrolladores y automatización de instalaciones y actualizaciones.\n- Gestión y mantenimiento del repositorio de código de la empresa (Bitbucket).\n\nLogros destacados:\n\n- Implementé automatización de despliegues que optimizó tiempos y redujo errores en producción.\n- Estandaricé procesos de desarrollo y operaciones, mejorando la eficiencia del equipo técnico."
+    },
+    {
+      "position": "Desarrollador Python – Herramientas de seguridad y CTFs (Hacker 101)",
+      "company": "Independent",
+      "location": "Región de Valparaíso, Chile",
+      "from": "02/2021",
+      "to": "02/2021",
+      "employment_type": "Personal Project",
+      "project_category": "Security Tooling & Automation",
+      "description": "Herramienta en Python para la automatización del reto Micro CMS v2 (Hacker101).\nEl script determina la longitud de los campos de autenticación y extrae caracteres mediante inyección SQL paralelizada.\n\nLa solución emplea tareas asíncronas con asyncio y aiohttp para maximizar la velocidad de enumeración, con cancelación temprana de tareas para optimizar recursos. Incluye sistema de logging configurable y manejo de errores controlado.\n\nResponsabilidades y logros:\n\n- Diseño del flujo asíncrono para consultas HTTP concurrentes.\n- Construcción de payloads parametrizados para extracción de datos vía SQLi.\n- Optimización del rendimiento mediante concurrencia y control de tareas.\n- Documentación del repositorio y ejemplo de uso reproducible en CTFs.\n\nResultado: Fortalecimiento de conocimientos en seguridad web, scripting avanzado y desarrollo de herramientas orientadas a la investigación en entornos controlados.\n\nRepo: https://github.com/leandroccdev/hacker101-cft/"
+    },
+    {
+      "position": "Desarrollador PHP Full Stack",
+      "company": "Datactil SA",
+      "location": "Región de Valparaíso, Chile",
+      "from": "09/2017",
+      "to": "03/2018",
+      "employment_type": "Full-time",
+      "description": "Responsabilidades:\n\n- Mantenimiento y mejora continua de plataformas existentes de clientes, incluyendo corrección de errores, migraciones y desarrollo de nuevas funcionalidades.\n\n- Desarrollo de funcionalidades y módulos para nuevos proyectos, adaptados a los requerimientos específicos de cada cliente.\n\n- Implementación y despliegue de aplicaciones en entornos Docker, creando contenedores individuales para cada proyecto y gestionando su publicación en Amazon Web Services (AWS), garantizando entornos aislados, escalables y fácilmente administrables.\n\nProyectos realizados:\n\n- Migración Transbank Webpay (KCC → Web Services en PHP):\n\nEncargado de la migración del módulo de pagos en línea utilizado por las navieras del sur de Chile, reemplazando la antigua integración KCC por una implementación moderna basada en web services PHP. Este proyecto mejoró la estabilidad del sistema de pagos, optimizó la comunicación con Transbank y aseguró la continuidad operativa de las transacciones electrónicas.\n\n- Desarrollo de plugin nativo para Apache Cordova (Java):\n\nImplementación de un plugin nativo en Java para Apache Cordova, destinado a integrar una impresora POS incorporada en un dispositivo Android. El desarrollo permitió la comunicación directa entre la capa JavaScript (Ionic) y las funcionalidades nativas del sistema operativo, habilitando la impresión desde la aplicación híbrida y optimizando la interoperabilidad entre web y hardware.\n\n- Desarrollo de plataforma web para control de ruleta tipo casino:\n\nDesarrollo del backend y lógica de control para una ruleta digital interactiva instalada en un tótem con pantalla táctil en un centro comercial. La plataforma gestionaba los sorteos y la operativa de la ruleta, incluyendo administración de sesiones, registro de jugadas y comunicación en tiempo real entre la interfaz táctil y el sistema central."
+    },
+    {
+      "position": "Desarrollador mobile en Android",
+      "company": "Consultor Informático Independiente",
+      "location": "Región de Valparaíso, Chile",
+      "from": "01/2017",
+      "to": "04/2017",
+      "employment_type": "Freelance",
+      "description": "Desarrollo de aplicación Android para toma de lecturas de agua en domicilios particulares y mediciones de calidad del agua en organización APR (Agua Potable Rural).\n\nResponsabilidades:\n\n- Levantamiento y análisis de requerimientos, incluyendo visitas a terreno para conocer la operativa y el flujo de mediciones de agua.\n- Desarrollo e implementación de nuevos requerimientos en la aplicación.\n- Ejecución de pruebas manuales de caja negra y caja blanca para asegurar la calidad del software.\n- Pruebas de conectividad en terreno y validación del correcto funcionamiento de las mediciones de agua y calidad del suministro.\n- Documentación de procesos y elaboración de informes de mejoras basadas en la experiencia de campo.\n- Capacitación básica a operadores y personal de terreno sobre el uso de la aplicación.\n\nLogro destacado:\n\nImplementación de un sistema de caché offline que permitió a los operadores registrar lecturas de medidores sin conexión, garantizando la sincronización automática de los datos al volver a las dependencias del APR, mejorando la eficiencia y confiabilidad del proceso de medición."
+    },
+    {
+      "position": "Desarrollador PHP Full Stack",
+      "company": "Zeke LTDA",
+      "location": "Región de Valparaíso, Chile",
+      "from": "07/2016",
+      "to": "01/2017",
+      "employment_type": "Full-time",
+      "description": "Desarrollo de plataforma web para gestión interna de cliente.\n\nResponsabilidades:\n- Análisis de casos de uso para el desarrollo de nuevas funcionalidades en la plataforma.\n- Implementación de nuevas características basadas en los requerimientos y casos de uso definidos.\n- Realización y documentación de testing manual para asegurar el correcto funcionamiento de las funcionalidades desarrolladas."
+    },
+    {
+      "position": "Desarrollador PHP Full Stack",
+      "company": "Universidad de Valparaíso",
+      "location": "Región de Valparaíso, Chile",
+      "from": "11/2015",
+      "to": "06/2016",
+      "employment_type": "Full-time",
+      "description": "Participación en proyectos del Departamento de Informática de la Universidad de Valparaíso, desarrollando y manteniendo software enfocado en soluciones médicas para el Servicio de Salud Viña del Mar – Quillota (SSVQ).\n\nResponsabilidades:\n\n- Toma y análisis de requerimientos, incluyendo visitas a dependencias de médicos para recopilar necesidades y sugerencias sobre la plataforma.\n- Mantenimiento de la plataforma de gestión médica, implementando nuevos requerimientos y corrigiendo errores existentes.\n- Realización de testing manual en nuevas funcionalidades, asegurando calidad y funcionamiento según especificaciones.\n- Orientación y soporte a usuarios finales, ofreciendo soluciones a nuevas necesidades o canalizando requerimientos previamente definidos para su desarrollo.\n- Gestión de compras de equipamiento de TI, incluyendo routers, equipos de cómputo, pantallas y otros dispositivos necesarios para la operación.\n- Elaboración de manuales de usuario y documentación técnica para facilitar la correcta utilización de la plataforma por parte del personal médico."
+    },
+    {
+      "position": "Programador PL SQL",
+      "company": "SCorp SPA",
+      "location": "Región de Valparaíso, Chile",
+      "from": "07/2015",
+      "to": "09/2015",
+      "employment_type": "Full-time",
+      "description": "Programador PL SQL\n\nSCorp SPA · Jornada completa\n\njul. 2015 - sept. 2015 · 3 meses\n\nRegión de Valparaíso, Chile · Presencial\n\nReportería en Oracle 11 PL SQL para el nuevo sistema comercial de Chilquinta S.A. Open SmartFlex.\n\nResponsabilidades:\n\n- Migración de reportes existentes desde el sistema comercial antiguo a Open SmartFlex.\n- Coordinación con analistas comerciales para la revisión y validación de reportes comerciales basados en los resultados obtenidos.\n- Automatización de exportación de consultas Oracle a archivos Excel/CSV mediante scripts Bash y uso de SQL*Plus con el comando SPOOL.\n\nLogro destacado:\n\nImplementé un proceso automatizado de exportación de datos desde Oracle a Excel/CSV mediante Bash y SQLPlus, permitiendo generar reportes de hasta 1.5 GB de forma eficiente. Esta mejora redujo significativamente los tiempos de entrega y aumentó la demanda interna de reportes por parte del área comercial."
+    },
+    {
+      "position": "Práctica Profesional - Soporte Técnico y desarrollo web",
+      "company": "CDGO LTDA",
+      "location": "Región de Valparaíso, Chile",
+      "from": "03/2015",
+      "to": "06/2015",
+      "employment_type": "Internship",
+      "description": "Responsabilidades:\n\n- Mantenimiento plataforma web de auditorías, incluyendo el desarrollo de nuevas funcionalidades y corrección de errores existentes.\n- Soporte técnico nivel 1 a clientes de la organización, incluyendo configuraciones en servidores, impresoras, levantamiento de servicios tales como: apache web server, SMB, LanmanServer, correo electrónico.\n- Soporte remoto al personal del cliente mediante TeamViewer, asegurando la continuidad operativa de los sistemas.\n- Soporte en terreno, incluyendo inspección de puntos de red y documentación fotográfica para diagnóstico y seguimiento.\n- Modificación y actualización de contenido en sitios web Wordpress.\n- Comunicación semanal de avances y reporte oral de problemáticas o situaciones inusuales en dependencias del cliente.\n\nLogro destacado:\n\nImplementé una optimización en la plataforma web que redujo los tiempos de generación de reportes de varios minutos a segundos, mediante la reestructuración de consultas y precálculo de datos en MySQL."
+    },
+    {
+      "position": "Práctica Laboral - Automatización y Soporte de Sistemas",
+      "company": "Fernandes Y Romero SPA",
+      "location": "Región de Valparaíso, Chile",
+      "from": "11/2014",
+      "to": "02/2015",
+      "employment_type": "Internship",
+      "description": "Mantenimiento de plataforma web de gestión y control de cosecha de frutas.\n\nResponsabilidades:\n\n- Corrección de errores en plataforma.\n- Desarrollo de automatizaciones en Linux mediante scripts Bash.\n- Ejecución de testing manual de caja negra en aplicaciones Android y de caja blanca en la plataforma web.\n- Asegurar la disponibilidad operativa de dispositivos en terreno, incluyendo la carga y verificación de saldos en líneas móviles para el envío de telemetría, la preparación y envío de equipos a los predios de cosecha, y la carga de ROMs personalizadas con el software corporativo.\n\nLogro destacado:\n\nImplementé procedimientos técnicos para recuperar dispositivos Android inutilizados por flasheos fallidos y que estaban sin uso en la oficina, permitiendo que la empresa los volviera a poner en operación."
+    }
+  ]
+}
