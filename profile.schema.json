@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UserProfileSchema",
+  "type": "object",
+  "properties": {
+    "details": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "lastname": { "type": "string" },
+        "title": { "type": "string" },
+        "contact": {
+          "type": "object",
+          "properties": {
+            "email": { "type": "string", "format": "email" },
+            "phone": { "type": "string", "pattern": "^\\+?[1-9]\\d{1,14}$" },
+            "linkedin": { "type": "string", "format": "uri" },
+            "github": { "type": "string", "format": "uri" },
+            "website": { "type": "string", "format": "uri" }
+          },
+          "required": ["email"]
+        },
+        "location": {
+          "type": "object",
+          "properties": {
+            "country": { "type": "string" },
+            "city": { "type": "string" }
+          }
+        },
+        "education": { "type": "string" },
+        "cultural_profile": { "type": "string", "format": "uri" },
+        "about": { "type": "string" }
+      },
+      "required": ["name", "lastname", "title", "contact"]
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": { "type": "string" },
+          "institution": { "type": "string" },
+          "location": { "type": "string" },
+          "from": { "type": "string", "pattern": "^(0[1-9]|1[0-2])\\/\\d{4}$" },
+          "to": { "type": "string", "pattern": "^((0[1-9]|1[0-2])\\/\\d{4}|Ongoing)$" },
+          "education_type": { 
+            "type": "string", 
+            "enum": ["Professional Degree", "Technical Degree", "Bootcamp", "Course", "Specialization", "Workshop"] 
+          },
+          "field_of_study": { "type": "string" },
+          "status": { 
+            "type": "string", 
+            "enum": ["Graduated", "Completed", "In Progress", "Incomplete"] 
+          },
+          "degree_certificate_url": { "type": "string", "format": "uri" },
+          "credential_url": { "type": "string", "format": "uri" },
+          "credential_id": { "type": "string" },
+          "diploma_url": { "type": "string", "format": "uri" },
+          "sense_certificate_url": { "type": "string", "format": "uri" },
+          "repository_url": { "type": "string", "format": "uri" },
+          "description": { "type": "string" }
+        },
+        "required": ["degree", "institution", "from", "to", "education_type", "status"]
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": { "type": "string" },
+          "institution": { "type": "string" },
+          "location": { "type": "string" },
+          "from": { "type": "string", "pattern": "^(0[1-9]|1[0-2])\\/\\d{4}$" },
+          "to": { "type": "string", "pattern": "^(0[1-9]|1[0-2])\\/\\d{4}$" },
+          "education_type": { "type": "string", "enum": ["Course", "Certification", "Specialization"] },
+          "field_of_study": { "type": "string" },
+          "status": { "type": "string", "enum": ["Completed", "Active", "Expired"] },
+          "credential_url": { "type": "string", "format": "uri" },
+          "credential_id": { "type": "string" },
+          "diploma_url": { "type": "string", "format": "uri" },
+          "description": { "type": "string" }
+        },
+        "required": ["degree", "institution", "from", "to", "education_type", "status"]
+      }
+    },
+    "professional_experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position": { "type": "string" },
+          "company": { "type": "string" },
+          "industry": { "type": "string" },
+          "location": { "type": "string" },
+          "from": { "type": "string", "pattern": "^(0[1-9]|1[0-2])\\/\\d{4}$" },
+          "to": { "type": "string", "pattern": "^((0[1-9]|1[0-2])\\/\\d{4}|Ongoing)$" },
+          "employment_type": { 
+            "type": "string", 
+            "enum": ["Full-time", "Part-time", "Freelance", "Contract", "Internship", "Business Owner", "Career Break"] 
+          },
+          "project_category": { "type": "string" },
+          "pause_type": { "type": "string" },
+          "description": { "type": "string" }
+        },
+        "required": ["position", "company", "from", "to", "employment_type", "description"]
+      }
+    }
+  },
+  "required": ["details", "education", "professional_experience"]
+}
