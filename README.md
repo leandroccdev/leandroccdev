@@ -43,6 +43,8 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 - [SQL Intermediate](https://www.hackerrank.com/certificates/a4f127cda5a8)
 - [SQL Advanced](https://www.hackerrank.com/certificates/1bf9495d1b96)
 - [POO - Programación Orientada a Objetos](https://partners.alkemy.org/certificates/google-oauth2%7C116782785582728704608)
+- [NDG Linux Essentials](https://www.credly.com/badges/ed504d48-c763-4ef6-9369-e2ce79442eff)
+- [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/certificates/514960277d304fad9266c91f7caae1d6)
 
 ## Entorno de Desarrollo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
