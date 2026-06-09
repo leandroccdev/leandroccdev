@@ -42,6 +42,7 @@
       "status": "Completed",
       "credential_url": "https://www.credly.com/badges/053fa54f-cded-42d1-8f5b-b4ebc72737be",
       "credential_id": "053fa54f-cded-42d1-8f5b-b4ebc72737be",
+      "certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/a506c1500dfba775b80063db54f1d47b9129ce8b/documents/flcanellas-english-for-it-1-cert.pdf",
       "description": "Specialized course focused on English language proficiency within technical and IT contexts, aligned with the B2 Common European Framework (CEFR) level required for global communication and employment in technology sectors."
     },
     {
@@ -70,6 +71,7 @@
       "status": "Completed",
       "credential_url": "https://www.credly.com/badges/e2a095eb-7da1-46fa-88a4-7a371e88d320/linked_in_profile",
       "credential_id": "e2a095eb-7da1-46fa-88a4-7a371e88d320",
+      "certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/300004b564dd2033310e9d558f7f994582cc1b34/documents/flcanellas-python-essentials-1-cert.pdf",
       "description": "Curso oficial de alineación para la certificación PCEP (Certified Entry-Level Python Programmer) enfocado en los fundamentos esenciales del lenguaje.\n\nContenido clave desarrollado:\n\n- Fundamentos de Programación: Conceptos de diseño de software, variables, operaciones bit a bit y lógicas, y tipos de datos primitivos.\n- Estructuras de Control: Implementación de flujos condicionales (if-else) y bucles iterativos (while, for) para la resolución de algoritmos.\n- Colecciones y Modularización: Manipulación avanzada de listas, tuplas y diccionarios, junto con el diseño y la invocación de funciones estructuradas."
     },
     {
@@ -83,6 +85,7 @@
       "status": "Completed",
       "credential_url": "https://www.credly.com/badges/02c30223-0314-4eca-b4cf-5690257f0be4/linked_in_profile",
       "credential_id": "02c30223-0314-4eca-b4cf-5690257f0be4",
+      "certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/060ac4d15bebddf7fa10c63b838def65e2e359d6/documents/flcanellas-python-essentials-2-cert.pdf",
       "description": "Curso oficial avanzado de alineación para la certificación PCAP (Certified Associate in Python Programming), profundizando en el desarrollo estructurado y empaquetamiento de software.\n\nContenido clave desarrollado:\n\n- Programación Orientada a Objetos (POO): Implementación avanzada de clases, objetos, encapsulamiento, herencia, polimorfismo y propiedades internas del lenguaje.\n- Gestión de Excepciones y Errores: Diseño de bloques robustos de control de errores (try-except) y definición de excepciones personalizadas para garantizar la estabilidad del código.\n- Ecosistema y Estructura: Anatomía de módulos y paquetes, uso de la biblioteca estándar (sys, os, math), procesamiento de strings y manipulación de flujos de archivos de E/S (I/O) en disco."
     },
     {
@@ -96,6 +99,7 @@
       "status": "Completed",
       "credential_url": "https://www.credly.com/badges/52eee876-edc3-4544-a445-0fa606f54cf7/linked_in_profile",
       "credential_id": "52eee876-edc3-4544-a445-0fa606f54cf7",
+      "certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/2af7745c51db452b813177d95c1553e5994021fe/documents/flcanellas-Introduction-to-Cybersecurity-cert.pdf",
       "description": "Curso introductorio enfocado en los pilares fundamentales de la seguridad de la información y la concientización del riesgo digital.\n\nContenido clave desarrollado:\n\n- Conceptos de Seguridad: Comprensión del principio de Triada CIA (Confidencialidad, Integridad y Disponibilidad) y mitigación de vectores de ataque comunes.\n- Higiene Digital y Privacidad: Buenas prácticas para la protección de la identidad digital personal y análisis de los desafíos de ciberseguridad que enfrentan las infraestructuras corporativas actuales."
     },
     {
@@ -123,7 +127,21 @@
       "credential_id": "514960277d304fad9266c91f7caae1d6",
       "description": "Especialización avanzada en ingeniería inversa, análisis binario y comprensión profunda de la arquitectura x86-64 a nivel de hardware y registros.\n\nCompetencias y capacidades consolidadas:\n\n- Ingeniería Inversa y Depuración: Dominio en el uso de GDB, DDD y Ghidra a nivel básico para la decompilación de binarios, seguimiento del Stack y convenciones de llamadas (Calling Conventions).\n- Análisis Práctico Avanzado: Resolución exitosa del exigente 'CMU Binary Bomb Lab', descifrando fases lógicas protegidas directamente sobre ensamblador y código máquina.\n- Automatización de Entornos de Compilación: Diseño y gestión autónoma de Makefiles avanzados integrados con scripts de automatización en Bash para optimizar los ciclos de compilación y análisis.\n- Ciberseguridad y Fundamentos de CPU: Fundamentos aplicados a la auditoría de vulnerabilidades de memoria, bases para análisis de malware y consolidación de la base matemática y arquitectónica previa al estudio de extensiones como SIMD.\n\nRegistro documental y notas de estudio: https://github.com/leandroccdev/registro-aprendizaje-x86-64",
       "repository_url": "https://github.com/leandroccdev/registro-aprendizaje-x86-64"
-    }
+    },
+    {
+    "degree": "Linux Essentials",
+    "institution": "Cisco Networking Academy",
+    "location": "Remote",
+    "from": "05/2026",
+    "to": "06/2026",
+    "education_type": "Course",
+    "field_of_study": "Linux Operating System & Open Source",
+    "status": "Completed",
+    "credential_url": "https://www.credly.com/badges/ed504d48-c763-4ef6-9369-e2ce79442eff",
+    "credential_id": "ed504d48-c763-4ef6-9369-e2ce79442eff",
+    "certificate_url": "https://raw.githubusercontent.com/leandroccdev/leandroccdev/e993432cffa558dd30e5eec2ec93efcce81bac4f/documents/flcanellas-linux-essentials-cert.pdf",
+    "description": "Curso oficial dictado por NDG en alineación con la certificación Linux Essentials de LPI, enfocado en el dominio fundamental del sistema operativo Linux y la línea de comandos.\n\nContenido clave desarrollado:\n\n- Fundamentos de Linux y Open Source: Comprensión de la filosofía del software libre, licencias comunes y los componentes principales del sistema operativo.\n- Administración por Línea de Comandos (CLI): Navegación del sistema de archivos, gestión de permisos (chmod/chown), manipulación de textos, flujos de entrada/salida y creación de scripts básicos en Bash.\n- Gestión del Sistema: Conceptos esenciales de seguridad, administración de usuarios y grupos, control de procesos y configuración de red básica."
+  }
   ],
   "certifications": [
     {
