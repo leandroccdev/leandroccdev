@@ -398,7 +398,7 @@
       "from": "07/2016",
       "to": "01/2017",
       "employment_type": "Full-time",
-      "description": "Desarrollo de plataforma web para gestión interna de cliente.\n\nResponsabilidades:\n- Análisis de casos de uso para el desarrollo de nuevas funcionalidades en la plataforma.\n- Implementación de nuevas características basadas en los requerimientos y casos de uso definidos.\n- Realización y documentación de testing manual para asegurar el correcto funcionamiento de las funcionalidades desarrolladas."
+      "description": "Desarrollo de plataforma web para gestión interna de cliente.\n\nResponsabilidades:\n- Análisis de casos de uso para el desarrollo de nuevas funcionalidades en la plataforma.\n- Implementación de nuevas características basadas en los requerimientos y casos de uso definidos usando Laravel 5 y Oracle 11.\n- Realización y documentación de testing manual para asegurar el correcto funcionamiento de las funcionalidades desarrolladas."
     },
     {
       "position": "Desarrollador PHP Full Stack",
