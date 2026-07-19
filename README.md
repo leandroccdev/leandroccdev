@@ -22,7 +22,7 @@ Mi enfoque resiliente y adaptativo me permite observar, analizar, planificar y p
 ## Contacto
 **Email:** federico.leandro.c@gmail.com
 
-**Linkedin**: [Leandro Cañellas](https://www.linkedin.com/in/leandro-ca%C3%B1ellas-dev/)
+**Linkedin**: [Leandro Cañellas](https://www.linkedin.com/in/leandro-ca%C3%B1ellas/)
 
 ## Idiomas
 
